@@ -22,15 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "Marketing data science",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Finance data science",
                 "url": "#",
                 "style": "link",
