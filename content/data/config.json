@@ -40,7 +40,7 @@
                 "type": "action"
             },
             {
-                "label": "manufacturing data science",
+                "label": "Factory data science",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
